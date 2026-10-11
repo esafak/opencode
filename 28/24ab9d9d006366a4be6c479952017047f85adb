@@ -1,0 +1,18 @@
+packages/core/src/plugin/provider/openai.ts
+  h_ea91e2db23540f 23,317-336,452-480
+packages/core/test/plugin/provider-chatgpt.test.ts
+  h_ea91e2db23540f 867-868
+packages/core/test/plugin/provider-openai.test.ts
+  h_ea91e2db23540f 159-160,224-225,317-396
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2824ab9d9d006366a4be6c479952017047f85adb",
+  "prompts": {},
+  "humans": {
+    "h_ea91e2db23540f": {
+      "author": "Emre Şafak <3928300+esafak@users.noreply.github.com>"
+    }
+  }
+}
